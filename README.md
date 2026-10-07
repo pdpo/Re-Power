@@ -19,7 +19,7 @@ I am building this because I often stream games from my PC using Moonlight, but 
 - Momentary Button
 
 ## Wiring
-![Wiring](https://cdn.hackclub.com/01a111d8-a436-7339-bb88-90236579ca9d/wiring.png)
+![wiring](https://cdn.hackclub.com/01a116ba-e4d3-7c3b-95f4-768f6502776f/paste-1791382711168.png)
 
 ## Enclosure
 To design the enclosure I first sketched up one in Tinkercad to see what I was working on. The Optocoupler sits tightly in the cilinders meant for screws, the ESP32, RF Receiver, and lid slide in tight with about 0.2mm clearence. Then I completely redesigned it in Autodesk Fusion and added the texts to show where everything goes.
