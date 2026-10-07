@@ -73,6 +73,8 @@ Also I started coding the firmware, adding the Wi-Fi, RF and External button. Th
 
 I made the README complete with images and even a logo! Organized everything in folders and exported my files. Now I will submit my project and hope it gets accepted, I cant wait to build it!
 
+**Update:** whoops I completely forgot to update the wiring diagram to change the relay to the optocoupler. i'll re edit that now.
+
 ![](https://fabricate.hackclub-assets.com/dff8ef109fe38c2165a692dca9208200aba4065fd1d2bbc2948f3a3f477f332d/explorer_an4TEQHL6Z.png)
 
 **Total time spent: 2h**
