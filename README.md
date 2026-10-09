@@ -40,18 +40,18 @@ To design the enclosure I first sketched up one in Tinkercad to see what I was w
 ![image](https://cdn.hackclub.com/01a111e0-9948-7300-8ee1-cfe7c13ef483/paste-1791301292860.png)
 
 ## Bill of Materials
-| Item | Part Description | Quantity | Price (EUR) | Supplier | Product Link |
-| --- | --- | --- | --- | --- | --- |
-| 1 | ESP32-C3 Super Mini | 1 | €4.99 | Otronic | [Link](https://www.otronic.nl/nl/esp32-c3-super-mini-wi-fi-ble-met-4mb-flash) |
-| 2 | 2-Channel Optocoupler | 1 | €2.00 | Otronic | [Link](https://www.otronic.nl/nl/2-kanaals-optocoupler-isolatiemodule) |
-| 3 | 433MHz RF Receiver and Transmitter | 1 | €2.25 | Otronic | [Link](https://www.otronic.nl/nl/433mhz-rf-zender-en-ontvanger) |
-| 4 | 433MHz 2 Button Wireless Remote | 1 | €4.00 | Otronic | [Link](https://www.otronic.nl/nl/losse-afstandsbediening-met-2-knoppen-433mhz) |
-| 6 | 12mm Momentary Button | 1 | €1.00 | Otronic | [Link](https://www.otronic.nl/nl/drukknop-moment-puls-14x20-rond-gat-12mm-zwart) |
-| 7 | Dupont Jumper Wire F-F | 1 | €1.70 | Otronic | [Link](https://www.otronic.nl/nl/dupont-jumper-kabels-40-stuks-female-female-10cm-draadbruggen-voor-breadboard) |
-| 8 | Dupont Jumper Wire M-F | 1 | €1.70 | Otronic | [Link](https://www.otronic.nl/nl/dupont-jumper-kabels-40-stuks-male-female-10cm-draadbruggen-voor-breadboard) |
-| 9 | PLA Filament (~50g) | 1 | €0.00 | Self | N/A (Provided by me) |
-| 10 | Shipping (PostNL Brievenbuspakketje) | 1 | €4.49 | Otronic | [Link](https://www.otronic.nl/) |
-| **Total** | | | **22.13** | | |
+| Item | Part Description | Quantity | Price (EUR) | Price (USD) | Supplier | Product Link |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | ESP32-C3 Super Mini | 1 | €4.99 | $5.44 | Otronic | [Link](https://www.otronic.nl/nl/esp32-c3-super-mini-wi-fi-ble-met-4mb-flash) |
+| 2 | 2-Channel Optocoupler | 1 | €2.00 | $2.18 | Otronic | [Link](https://www.otronic.nl/nl/2-kanaals-optocoupler-isolatiemodule) |
+| 3 | 433MHz RF Receiver and Transmitter | 1 | €2.25 | $2.45 | Otronic | [Link](https://www.otronic.nl/nl/433mhz-rf-zender-en-ontvanger) |
+| 4 | 433MHz 2 Button Wireless Remote | 1 | €4.00 | $4.36 | Otronic | [Link](https://www.otronic.nl/nl/losse-afstandsbediening-met-2-knoppen-433mhz) |
+| 5 | 12mm Momentary Button | 1 | €1.00 | $1.09 | Otronic | [Link](https://www.otronic.nl/nl/drukknop-moment-puls-14x20-rond-gat-12mm-zwart) |
+| 6 | Dupont Jumper Wire F-F | 1 | €1.70 | $1.85 | Otronic | [Link](https://www.otronic.nl/nl/dupont-jumper-kabels-40-stuks-female-female-10cm-draadbruggen-voor-breadboard) |
+| 7 | Dupont Jumper Wire M-F | 1 | €1.70 | $1.85 | Otronic | [Link](https://www.otronic.nl/nl/dupont-jumper-kabels-40-stuks-male-female-10cm-draadbruggen-voor-breadboard) |
+| 8 | PLA Filament (~50g) | 1 | €0.00 | $0.00 | Self | N/A (Provided by me) |
+| 9 | Shipping (PostNL Brievenbuspakketje) | 1 | €4.49 | $4.89 | Otronic | [Link](https://www.otronic.nl/) |
+| **Total** |  |  | **€22.13** | **$24.11 USD** |  |  |
 
 ## Software Used
 - Autodesk Fusion
