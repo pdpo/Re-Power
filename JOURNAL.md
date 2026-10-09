@@ -3,7 +3,7 @@ title: "ESP32 PC Remote Starter"
 github: "https://github.com/pdpo/esp32-pc-remote-starter"
 description: "A small enclosure connected to your PCs front panel headers to turn on and reset your PC using: physical buttons on the case (duh) WiFi, Bluetooth, 433MHz RF Remote, and an optional extra button.\n\nI am building this because I often stream games from my PC using Moonlight, but leaving my PC always running wastes alot of energy. This remote starter allows me to turn on my PC remotely so it doesn't matter if your in a different country, planet (one that has wifi), or just in across your house you will always be able to start your PC remotely!"
 created_at: "2026-10-03"
-total_time: "12h"
+total_time: "15h"
 ---
 
 # October 3, 2026: Planning the project & safety
@@ -78,3 +78,20 @@ I made the README complete with images and even a logo! Organized everything in 
 ![](https://fabricate.hackclub-assets.com/dff8ef109fe38c2165a692dca9208200aba4065fd1d2bbc2948f3a3f477f332d/explorer_an4TEQHL6Z.png)
 
 **Total time spent: 2h**
+
+# October 9, 2026: Fixing 3D Model and BOM
+<!-- fabricate:entry 313 -->
+
+Today I had received a rejection letter telling me in short that i should:
+- Add 3D Models of the electronics I am adding in
+- Add real mounting like screw holes or mounting plates
+- Fix the BOM to have USD instead of EUR
+- Remove the "AI" logo in the README (It wasnt made with AI but okay)
+
+I started by doing the easiest first which was removing the logo and fixing the BOM. Then i started working on the enclosure, first i found the components online so I imported them, next I thought of how I was going to secure them. For the Optocoupler its simple because that has screw holes but the ESP32-C3 Supermini and rf receiver dont. So for the ESP32 I made a clamp with screws and the RF receiver clicks into a snap click thingy. And that was about it, now I will resubmit it and hope for the best!
+
+![](https://fabricate.hackclub-assets.com/0630c0dea796cf9b932b9204a2820adff7b58b29a5cb7cad65b359a3c61684ee/image-png/esp32%20clamp.png)
+![](https://fabricate.hackclub-assets.com/cbad83c9b6cbd910e9b9fcaf9ebfd6e6f70eb2f42e3f0c247d7f9454751e9de6/image-png/optocoupler%20clamp.png)
+![](https://fabricate.hackclub-assets.com/0b69edde9ba6ff92eb9c1904852a5889b1b94f5811e3098d3c7e5c302470a863/image-png/preview.png)
+
+**Total time spent: 3h**
