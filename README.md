@@ -30,7 +30,7 @@ To design the enclosure I first sketched up one in Tinkercad to see what I was w
 ![image](https://cdn.hackclub.com/01a122ce-b512-7e13-be1d-07c9adcbaed9/lid%20mechanism.png)
 
 ### ESP32 Clamp
-![image](https://cdn.hackclub.com/01a111d5-ce37-7a5c-9032-14125e6ae5b2/paste-1791300587012.png)
+![image](https://cdn.hackclub.com/01a122d3-62b6-7978-8bf5-0b1d06721a0d/esp32%20clamp.png)
 
 ### Optocoupler Screws
 ![image](https://cdn.hackclub.com/01a122cf-5af2-78db-9c66-6ecdfd998491/optocoupler%20screw.png)
