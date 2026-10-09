@@ -1,4 +1,3 @@
-![logo](https://cdn.hackclub.com/01a111d3-a3ba-76f1-b0cc-55c65e430eee/Re-Power.gif)
 # Re-Power
 A small enclosure connected to your PCs front panel headers to turn on and reset your PC remotely.
 
